@@ -1,0 +1,1 @@
+I have learned the fundamental concepts of combinational circuits and explored their practical implementation. Building on this knowledge, I designed an ALU controller module (alucon.v). I welcome any suggestions or improvements you may have after reviewing the code.
